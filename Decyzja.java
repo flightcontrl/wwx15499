@@ -1,4 +1,4 @@
-public class Decyzja {
+git public class Decyzja {
     public static void main(String[] args) {
         System.out.println("--------------- Decyzja -------------");
 
@@ -9,7 +9,7 @@ public class Decyzja {
          */
         int godzina =21;
         if (godzina < 12) {
-            System.out.println("good morning");
+            System.out.println("zdrastwujtje");
         } else if (godzina < 20) {
             System.out.println("good afternoon");
         }else{
