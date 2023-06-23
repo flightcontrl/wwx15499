@@ -17,7 +17,7 @@ public class Main {
         System.out.println("hisDouble: " + hisDouble);
         System.out.println(" " + herChar);
         System.out.println(herName + " i " + hisName + " są parą");
-        System.out.printf("Dziś %s i %s wydali na zakup mebli %.2f ", herName, hisName, hisDouble + herFloat);
+        System.out.printf("Dziś %s i %s wydali na zakup parasolek %.2f ", herName, hisName, hisDouble + herFloat);
 
     }
 }
