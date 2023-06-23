@@ -1,1 +1,0 @@
-/ignorowanie.java/
